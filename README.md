@@ -15,3 +15,7 @@ LuckPHP模仿ThinkPHP、Yaf等框架进行设计制作。框架结构简单，�
 ### 心声
 
 开源改变世界！编程的过程，我们需要互帮互助的成长。
+
+### 文档
+
+https://www.kancloud.cn/query/luckphp2_0
